@@ -13,3 +13,10 @@ Deuxième exercice :
 
 - Faire une méthode "checkPhone" qui permet de vérifier le numéro de téléphone d'une personne, voici les règles de vérification :
 	. Le numéro doit commencer par 02 ou 06 ou 07 et il doit respecter les standards d'un numéro de téléphone français.
+	
+
+
+LANCER LE PROJET :
+
+npm install
+nodemon server
